@@ -1,5 +1,7 @@
-*Hey GitBot*
-**Hola Student**
-_Why are you difficult at times?_
-__Am I?__
-_I don't know**are You**?_
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
