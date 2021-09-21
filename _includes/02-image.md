@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tumelo Shwatja](https://photos.google.com/photo/AF1QipOJjRL57qXEPxoRPW8FniCQyi3KRkRGONnEVnA) 
